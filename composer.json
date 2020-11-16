@@ -11,7 +11,7 @@
     "homepage": "https://github.com/artogrig/laravel-make-service",
     "keywords": ["Laravel", "LaravelMakeService", "artogrig", "command", "service", "make", "console"],
     "require": {
-        "illuminate/support": "~5"
+        "illuminate/support": ">=5"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0",
